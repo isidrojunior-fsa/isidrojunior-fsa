@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:2563EB&amp;height=220&amp;section=header&amp;text=Isidro%20Junior&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=TI%20%7C%20Redes%20%26%20Infraestrutura&amp;descAlignY=55&amp;descSize=18&amp;v=2" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:2563EB&amp;height=220&amp;section=header&amp;text=Isidro%20Junior&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=TI%20%7C%20Redes%20e%20Infraestrutura&amp;descAlignY=55&amp;descSize=18&amp;v=3" width="100%" alt="Banner"/>
 
 <a href="https://github.com/isidrojunior-fsa">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Infraestrutura+%26+Redes;Windows+Server+%7C+PowerShell+%7C+pfSense;League+of+Legends+%E2%80%A2+Rock+%E2%80%A2+Impress%C3%A3o+3D;Vida+%2B+c%C3%B3digo+%2B+f%C3%A9" alt="Typing SVG" />
