@@ -59,8 +59,8 @@ perceber.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isidrojunior-fsa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isidrojunior-fsa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top langs" />
+  <img height="165" src="https://edge-readme-stats.dancodes.online/stats?username=isidrojunior-fsa&amp;theme=radical" alt="Stats" />
+  <img height="165" src="https://edge-readme-stats.dancodes.online/langs?username=isidrojunior-fsa&amp;theme=radical" alt="Top langs" />
 </div>
 
 <div align="center">
