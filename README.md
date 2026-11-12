@@ -20,6 +20,7 @@ perceber.
 - ⚙️ Automação com **PowerShell** e scripts pra tirar trabalho repetitivo do caminho
 - 📊 Monitoramento (Zabbix), Wi-Fi (UniFi), firewall (pfSense) e backup
 - 🧩 Sempre resolvendo aquele problema que "só acontece às vezes"
+- ❤️ Ao lado da **Giovanna Caetano**
 
 <br>
 
