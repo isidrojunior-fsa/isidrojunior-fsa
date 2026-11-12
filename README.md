@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2563EB&height=220&section=header&text=Isidro%20Junior&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TI%20%7C%20Redes%20%26%20Infraestrutura&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:2563EB&amp;height=220&amp;section=header&amp;text=Isidro%20Junior&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=TI%20%7C%20Redes%20%26%20Infraestrutura&amp;descAlignY=55&amp;descSize=18" width="100%" alt="Banner"/>
 
 <a href="https://github.com/isidrojunior-fsa">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Infraestrutura+%26+Redes;Windows+Server+%7C+PowerShell+%7C+pfSense;League+of+Legends+%E2%80%A2+Rock+%E2%80%A2+Impress%C3%A3o+3D;Vida+%2B+c%C3%B3digo+%2B+f%C3%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Infraestrutura+%26+Redes;Windows+Server+%7C+PowerShell+%7C+pfSense;League+of+Legends+%E2%80%A2+Rock+%E2%80%A2+Impress%C3%A3o+3D;Vida+%2B+c%C3%B3digo+%2B+f%C3%A9" alt="Typing SVG" />
 </a>
 
 </div>
@@ -59,14 +59,14 @@ perceber.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isidrojunior-fsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isidrojunior-fsa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isidrojunior-fsa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isidrojunior-fsa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isidrojunior-fsa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isidrojunior-fsa&amp;theme=tokyonight&amp;hide_border=true" alt="Streak" />
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:0F2027&amp;height=120&amp;section=footer" width="100%" alt="Footer"/>
